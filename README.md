@@ -33,7 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ketanagwan&" alt="ketanagwan" /></p>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketanagwan" alt="ketanagwan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketanagwan" alt="ketanagwan" style="background:#182121; margin:4px;" /></a> </p>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketanagwan&label=Profile%20views&color=0e75b6&style=flat" alt="ketanagwan" /> </p>
 
