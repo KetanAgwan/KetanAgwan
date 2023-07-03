@@ -1,3 +1,6 @@
+<h1 align="center">Hey 👋, I'm Ketan &#128515</h1>
+<h3 align="center">A passionate frontend web developer from India</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on self improvement<br>👯 I’m looking to collaborate on web developememt projects<br>🤝 I’m looking for help with mentor<br>🌱 I’m currently learning everything i like<br>💬 Ask me about web developement and technology<br>⚡ Fun fact i'm a photographer also
 
