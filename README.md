@@ -6,8 +6,8 @@
 
 ## 🔥 My Portfolio:
 
-[Visit my portfolio](https://www.ketanagwan.com/)
-[Download my resume](https://www.ketanagwan.com/files/KetanAgwan_Resume.pdf)
+[Visit my portfolio](https://www.ketanagwan.com/)<br>
+[Download my resume](https://www.ketanagwan.com/files/KetanAgwan_Resume.pdf)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KetanAgwan) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/KetanAgwan) 
