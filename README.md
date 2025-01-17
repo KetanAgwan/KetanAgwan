@@ -4,7 +4,7 @@
 # 💫 About Me:
 🔭 I’m currently a freelance software developer<br>👯 I've worked on multiple frontend, fullstack, UI/UX design and no code projects<br>🌱 I’m currently learning everything i like<br>💬 Ask me about web developement and technologies<br>⚡ Fun fact - i'm a photographer also
 
-# 💫 My Popstfolio:
+## 🔥 My Portfolio:
 
 [Visit my portfolio](https://www.ketanagwan.com/)
 
